@@ -55,7 +55,7 @@ header li a:hover i{background-position: -192px -2px;}
 /*关闭按钮样式*/
 #main .ad .close{display: block;width: 18px;height: 18px;background: url('../img/icon2.png') -8px -8px;position: absolute;z-index: 3;margin-top: -95px;margin-left: 1180px;cursor: pointer;}
 #main .search{width: 100%;height: 37px;padding-top: 30px;}
-.logo{background: url('../img/icon.png') -4px -362px;height: 37px;width: 189px;float: left;}
+/*.logo{background: url('../img/icon.png') -4px -362px;height: 37px;width: 189px;float: left;}*/
 /*搜索框样式*/
 .search_box{height: 37px;float: right;width: 688px;}
 .search_box input[type='text']{height: 35px;border: 1px solid #535353;width: 605px;color: black;padding: 0 10px;}
@@ -120,7 +120,7 @@ justify-content:space-between;}
 .forum ul li{font-size:12px;height:35px;line-height:30px;text-indent:10px;}
 .recommend{margin-top:10px;width:100%;*zoom:1;}
 .recommend:after{content:"";clear:both;display:table;}
-.today_com{width:192px;height:159px;float: left;}
+.today_com{width:192px;height:140px;float: left;font-family:2em ;font-size: 80px;text-align: center}
 .today_com img{max-width:100%;display:block;}
 .today_banner{overflow:hidden;width:1008px;height:159px;float: right;position:relative;}
 .today_banner ul li{float: left;}
